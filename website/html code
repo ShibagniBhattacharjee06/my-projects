@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Drink Driving Awarness</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Drink Driving Awareness</h1>
+    <!-- Navigation Links -->
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#effects">Effects</a></li>
+        <li><a href="#prevention">Prevention</a></li>
+        <li><a href="#resources">Resources</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="home">
+      <!-- Homepage Content -->
+      <div class="typing-animation">
+      <p><span class="larger-text"><b><i>WELCOME TO OUR DRINK AND DRIVE AWARENESS SITE</i></b></span></p> 
+      <h2> Nowadays dectection of drunken peoplehave become a challenge, as people have found means to bypass the alcohol detector through smell.Our website is a software to detect drunken people just by their facial expression and body movement</h2S>
+      <!-- Image -->
+      </div>
+      
+      <img src="drive.jpg" alt="Drink Driving Image">
+    </section>
+    <section id="about">
+        <!-- Homepage Content -->
+        <h2>ABOUT</h2>
+        <p>Facial Expression and Body Movement Detection for Intoxication:
+            <b>Objective: </b>Developing software that uses facial expressions and body movements to detect signs of intoxication in individuals.
+            
+            Approach:
+            
+            <b>Facial Analysis</b> Utilize computer vision and machine learning to assess facial features and expressions associated with intoxication, such as droopy eyelids, blurred vision, or delayed responses.
+            
+            Body Movement Analysis: Implement motion tracking or sensors to analyze body movements indicating imbalance, instability, or slowed reactions typically linked with intoxication.
+            
+            Development:
+            
+            <b>Data Collection</b> Gather a dataset capturing varied facial expressions and movements, categorizing them into sober and intoxicated behaviors.
+            
+            Algorithm Training: Train machine learning models using this dataset to recognize and differentiate between sober and intoxicated behaviors accurately.
+            
+            Application:
+            
+            <b>Law Enforcement Aid:</b> Assist law enforcement in identifying potential cases of intoxication during routine checks or at public events.
+            
+            <b>Venue Safety:</b> Implement in places like bars or events to monitor guest behavior, ensuring safety and intervening if signs of intoxication are detected.
+            
+            Challenges:
+            
+            <b>Accuracy:</b> Ensuring the software distinguishes subtle differences between normal behavior and signs of intoxication reliably.
+            
+            <b>Ethical Use:</b> Ensuring responsible and ethical deployment to respect individuals' privacy and rights.
+
+
+            <b>Conclusion:</b>
+            Developing accurate software for intoxication detection via facial expressions and body movements requires precise data analysis and machine learning techniques. Ethical considerations and continual refinement are essential for its effective and responsible use.</p>
+        <!-- Image -->
+        
+          
+        <img src="DRINK.jpg" alt="Drink Driving Image"width="300" height="200">>
+    
+      </section>
+      <section id="effects">
+        <!-- Homepage Content -->
+        <h2>EFFECTS</h2>
+        <p>  Developing intoxication detection software via facial expressions and body movements enhances safety for law enforcement and venues but demands accuracy to distinguish behaviors accurately. Privacy concerns arise due to monitoring, requiring ethical deployment and regulations. Potential positive effects include preventing accidents and promoting responsible drinking, yet technical limitations and societal impact necessitate careful consideration for responsible use and societal acceptance. </p>
+        <!-- Image -->
+        <img src="EFFECT.jpg" alt="Drink Driving Image"width="300" height="200">>
+      </section>
+      <section id="prevention">
+        <!-- Homepage Content -->
+        <h2>PREVENTIONS</h2>
+        <p> <b>Education:</b> Raise awareness about the dangers of drink driving through campaigns and educational programs.
+
+            <b>Enforcement:</b> Implement strict laws and penalties for drink driving to deter individuals from engaging in this behavior.
+            
+            <b>Alternative Transportation:</b>Promote and facilitate access to safe transportation options like taxis, rideshare services, or designated drivers.
+            
+            <b>Technological Solutions:</b> Use breathalyzer ignition locks or apps that estimate blood alcohol content to discourage driving under the influence.
+            
+            <b>Community Involvement:</b> Encourage community involvement in preventing drink driving through initiatives and support groups.
+            
+            <b>Responsible Serving: </b>Train bartenders and staff to recognize signs of intoxication and limit alcohol consumption in bars and venues.
+            
+            <b>Personal Responsibility:</b> Encourage individuals to plan ahead, designate a sober driver, or use alternative transportation before drinking.
+            
+           <b>Peer Influence: </b>Foster a culture where friends and peers discourage drink driving and intervene if someone is unfit to drive.
+            
+            <b>Regulation and Policies:</b> Support and enforce policies aimed at reducing alcohol availability and promoting responsible consumption.
+            
+            <b>Continuous Evaluation:</b> Regularly assess and improve prevention strategies based on effectiveness and changing trends.</p>
+        <!-- Image -->
+      
+        <img src="PREVENTION.jpg" alt="Drink Driving Image"width="300" height="200">>
+      </section>
+      <section id="resources">
+        <!-- Homepage Content -->
+        <h2>RESOURCES</h2>
+        <p> National Highway Traffic Safety Administration (NHTSA): Provides statistics, research, and campaigns focused on road safety and preventing drink driving. (Website: nhtsa.gov)
+
+            Mothers Against Drunk Driving (MADD): Offers education, victim support, and advocacy against drink driving. (Website: madd.org)
+            
+            Centers for Disease Control and Prevention (CDC): Offers data, research, and resources on the impact of alcohol-impaired driving. (Website: cdc.gov)
+            
+            Ride-Sharing Apps: Platforms like Uber and Lyft provide safe transportation alternatives, reducing the need for drink driving.
+            
+            Local Law Enforcement Agencies: Contact local police departments for information on local laws, penalties, and community programs related to drink driving.
+            
+            Healthcare Providers: Doctors and health professionals can offer guidance on alcohol consumption and its effects on driving.
+            
+            Alcohol Education Programs: These may be available through schools, community centers, or online platforms, providing information on responsible drinking and its impact on driving.
+            
+            Community Support Groups: Organizations or groups focused on road safety and alcohol prevention might offer resources and support for individuals and communities.
+            
+            Government Websites: National and regional government websites often provide resources, laws, and statistics related to drink driving and road safety.
+            
+            Alcohol Treatment Centers: For those struggling with alcohol dependency, treatment centers can offer support and resources to overcome addiction and prevent drink driving incidents.</p>            
+        <!-- Image -->
+        <img src="RESOURCESjpg.jpeg" alt="Drink Driving Image"width="300" height="200">
+      </section>
+      
+  
+  
+  </main>
+
+  <footer>
+    <!-- Footer content -->
+    <p>&copy; 2024 Drink Driving Awareness</p>
+  </footer>
+  <script src="scripts.js"></script>
+</body>
+</html>
+
